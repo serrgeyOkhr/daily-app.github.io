@@ -12,7 +12,7 @@ export const generalWebsites: IWebsite[] = [
   },
   {
     name: "Movies",
-    url: "https://movies2watch.tv/",
+    url: "https://www1.movies2watch.biz/home/",
     image: "movies2watch",
   },
   {
